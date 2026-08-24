@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# Muhannad Alshaeq
+# Muhannad 
 
 ### Customer Experience • Digital Experience • Technology Platforms
 
