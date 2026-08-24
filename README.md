@@ -14,63 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-# Muhannad Alshaeq
+## Platforms & Tools Applied to CX
 
-### Customer Experience × Technology
+I have worked with customer experience, service management, monitoring, automation, and platform technologies to improve customer and beneficiary journeys and connect customer feedback with operational action.
 
-<!-- **13+ Years of Experience in Customer Experience** -->
+| Area                        | Platforms & Tools            | CX Application                                                                                                                |
+| --------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Contact Center & Engagement | **Genesys**                  | Improving customer interaction journeys, routing, service consistency, and the overall contact-center experience.             |
+| Service & Issue Management  | **Jira**                     | Tracking incidents, customer-impacting issues, improvement initiatives, and technical follow-ups across teams.                |
+| Monitoring & Observability  | **Splunk**                   | Monitoring service health, identifying customer impact, supporting root-cause analysis, and enabling faster issue resolution. |
+| CRM & Case Management       | **Microsoft Dynamics**       | Supporting customer information, case management, service requests, and operational follow-up.                                |
+| Voice of the Customer       | **Survey & VoC Platforms**   | Capturing feedback, measuring NPS, CSAT, and CES, identifying pain points, and translating insights into action.              |
+| Automation & Integration    | **n8n, APIs & Webhooks**     | Automating workflows and connecting customer feedback, service-management, and operational systems.                           |
+| Performance & Reliability   | **Grafana, Prometheus & k6** | Understanding platform performance, availability, and reliability and their impact on digital customer experience.            |
 
-<br>
-
-<img src="https://img.shields.io/badge/Customer%20Experience-0969DA?style=flat-square" alt="Customer Experience">
-<img src="https://img.shields.io/badge/Customer%20Satisfaction-0969DA?style=flat-square" alt="Customer Satisfaction">
-<img src="https://img.shields.io/badge/Customer%20Loyalty-0969DA?style=flat-square" alt="Customer Loyalty">
-<img src="https://img.shields.io/badge/Digital%20Platforms-0969DA?style=flat-square" alt="Digital Platforms">
-
-</div>
-
----
-
-## About Me
-
-I’m a **Customer Experience professional ** improving customer journeys, increasing customer satisfaction, and strengthening long-term loyalty and engagement with digital platforms.
-
-My experience is centered on understanding customer needs, identifying experience gaps, and translating customer feedback into practical improvements that create measurable value for both customers and organizations.
-
-Alongside my CX experience, I have a strong interest in **digital product development and building technology platforms** that connect customer insights with operations and enable faster, more effective action.
-
-## Core Expertise
-
-| Customer Experience          | Business Outcomes     | Technology Enablement |
-| ---------------------------- | --------------------- | --------------------- |
-| CX Strategy                  | Customer Satisfaction | Digital Platforms     |
-| Customer Journey Improvement | Customer Loyalty      | Product Development   |
-| Voice of the Customer        | Customer Retention    | Process Automation    |
-| Experience Measurement       | Service Improvement   | Systems Integration   |
-
-## What I Focus On
-
-* Designing and improving customer journeys
-* Identifying customer pain points and experience gaps
-* Increasing customer satisfaction and platform loyalty
-* Turning customer feedback into measurable actions
-* Improving services through continuous analysis
-* Supporting CX through digital products and technology platforms
-* Connecting customer insights with business operations
-
-## My Perspective
-
-> Great customer experience is not only about listening to customers—it is about understanding their needs, acting on their feedback, and giving them a reason to stay.
-
-I believe technology should make it easier to understand customers, simplify operations, close the feedback loop, and consistently deliver better experiences.
-
----
+## Additional Platform Experience
 
 <div align="center">
 
-### Understand Better • Improve Continuously • Build Loyalty
+<img src="https://img.shields.io/badge/Genesys-FF4F1F?style=flat-square" alt="Genesys">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk">
+<img src="https://img.shields.io/badge/Dynamics-6A1B9A?style=flat-square" alt="Microsoft Dynamics">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6">
 
 </div>
+
+I also have experience and interest in technologies supporting digital platforms, including **Keycloak, Kong, system integrations, IVR, Asterisk, platform architecture, and production operations**.
+
+My focus is always on how these technologies can improve service reliability, accelerate response to customer-impacting issues, automate operational actions, and deliver better digital experiences.
 
