@@ -39,6 +39,7 @@ Some of the platforms and technologies that have shaped my work and interests in
 <br>
 
 <img src="https://img.shields.io/badge/IVR_%26_Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="IVR and Asterisk">
+<img src="https://img.shields.io/badge/IVR_%26_Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="IVR">
 <img src="https://img.shields.io/badge/APIs-0969DA?style=flat-square" alt="APIs">
 <img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square" alt="Webhooks">
 <img src="https://img.shields.io/badge/Survey_%26_VoC_Platforms-7C3AED?style=flat-square" alt="Survey and VoC Platforms">
