@@ -14,37 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Selected Platforms & Technologies
 
-## Platforms & Tools Applied to CX
+My experience and interests extend across **customer experience, digital platforms, service operations, product development, automation, integration, observability, and performance**.
 
-I have worked with customer experience, service management, monitoring, automation, and platform technologies to improve customer and beneficiary journeys and connect customer feedback with operational action.
-
-| Area                        | Platforms & Tools            | CX Application                                                                                                                |
-| --------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Contact Center & Engagement | **Genesys**                  | Improving customer interaction journeys, routing, service consistency, and the overall contact-center experience.             |
-| Service & Issue Management  | **Jira**                     | Tracking incidents, customer-impacting issues, improvement initiatives, and technical follow-ups across teams.                |
-| Monitoring & Observability  | **Splunk**                   | Monitoring service health, identifying customer impact, supporting root-cause analysis, and enabling faster issue resolution. |
-| CRM & Case Management       | **Microsoft Dynamics**       | Supporting customer information, case management, service requests, and operational follow-up.                                |
-| Voice of the Customer       | **Survey & VoC Platforms**   | Capturing feedback, measuring NPS, CSAT, and CES, identifying pain points, and translating insights into action.              |
-| Automation & Integration    | **n8n, APIs & Webhooks**     | Automating workflows and connecting customer feedback, service-management, and operational systems.                           |
-| Performance & Reliability   | **Grafana, Prometheus & k6** | Understanding platform performance, availability, and reliability and their impact on digital customer experience.            |
-
-## Additional Platform Experience
+Some of the platforms and technologies that have shaped my work and interests include:
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Genesys-FF4F1F?style=flat-square" alt="Genesys">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk">
-<img src="https://img.shields.io/badge/Dynamics-6A1B9A?style=flat-square" alt="Microsoft Dynamics">
+<img src="https://img.shields.io/badge/Microsoft_Dynamics-6A1B9A?style=flat-square" alt="Microsoft Dynamics">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+
+<br>
+
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6">
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak">
+<img src="https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white" alt="Kong">
+
+<br>
+
+<img src="https://img.shields.io/badge/IVR_%26_Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="IVR and Asterisk">
+<img src="https://img.shields.io/badge/APIs-0969DA?style=flat-square" alt="APIs">
+<img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square" alt="Webhooks">
+<img src="https://img.shields.io/badge/Survey_%26_VoC_Platforms-7C3AED?style=flat-square" alt="Survey and VoC Platforms">
 
 </div>
 
-I also have experience and interest in technologies supporting digital platforms, including **Keycloak, Kong, system integrations, IVR, Asterisk, platform architecture, and production operations**.
-
-My focus is always on how these technologies can improve service reliability, accelerate response to customer-impacting issues, automate operational actions, and deliver better digital experiences.
-
+I view technology as an enabler for better experiences—helping connect customer insight with operations, improve services, support informed decisions, and create more connected and reliable digital platforms.
