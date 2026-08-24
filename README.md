@@ -14,9 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+# Muhannad Alshaeq
+
+### Customer Experience • Digital Experience • Technology Platforms
+
+**Transforming customer understanding into better journeys, higher satisfaction, and lasting loyalty.**
+
+<br>
+
+<img src="https://img.shields.io/badge/Customer_Experience-0969DA?style=for-the-badge" alt="Customer Experience">
+<img src="https://img.shields.io/badge/Customer_Satisfaction-0F766E?style=for-the-badge" alt="Customer Satisfaction">
+<img src="https://img.shields.io/badge/Customer_Loyalty-7C3AED?style=for-the-badge" alt="Customer Loyalty">
+<img src="https://img.shields.io/badge/Digital_Platforms-334155?style=for-the-badge" alt="Digital Platforms">
+
+</div>
+
+---
+
+## Professional Profile
+
+I work in **Customer Experience**, with a focus on developing and improving customer and beneficiary experiences, increasing satisfaction, strengthening loyalty, and creating better experiences across services and digital platforms.
+
+My experience combines **customer understanding, experience improvement, operational development, and technology enablement**. I translate customer needs, feedback, and service challenges into improvement opportunities that create measurable value for customers and organizations.
+
+I am particularly interested in the relationship between **Customer Experience and technology**—and how digital products, connected platforms, automation, and data can help organizations understand customers better and respond more effectively.
+
+## Core Areas of Expertise
+
+| Experience Strategy            | Insight & Improvement      | Digital Enablement             |
+| ------------------------------ | -------------------------- | ------------------------------ |
+| Customer Experience Management | Voice of the Customer      | Digital Experience             |
+| CX Strategy & Development      | Customer Feedback Programs | Product & Platform Development |
+| Customer Journey Improvement   | Experience Measurement     | Process Automation             |
+| Service Experience Design      | Satisfaction & Loyalty     | Systems Integration            |
+| Experience Governance          | Continuous Improvement     | Technology-Enabled CX          |
+
+## What I Focus On
+
+* Developing customer and beneficiary experiences across different channels
+* Improving customer journeys and addressing experience gaps
+* Increasing satisfaction, engagement, retention, and platform loyalty
+* Building and developing Voice of the Customer and feedback programs
+* Measuring experience through NPS, CSAT, CES, and operational indicators
+* Translating customer feedback into actionable improvement priorities
+* Connecting customer insights with business and technical operations
+* Supporting digital products and platforms from a CX perspective
+* Improving the reliability and consistency of digital service experiences
+* Enabling continuous improvement through data, technology, and automation
+
 ## Selected Platforms & Technologies
 
-My experience and interests extend across **customer experience, digital platforms, service operations, product development, automation, integration, observability, and performance**.
+My experience and interests extend across **customer experience, contact centers, service operations, digital platforms, product development, automation, integration, observability, and performance**.
 
 Some of the platforms and technologies that have shaped my work and interests include:
 
@@ -39,11 +90,50 @@ Some of the platforms and technologies that have shaped my work and interests in
 <br>
 
 <img src="https://img.shields.io/badge/IVR_%26_Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="IVR and Asterisk">
-<img src="https://img.shields.io/badge/IVR_%26_Asterisk-F68F1E?style=flat-square&logo=asterisk&logoColor=white" alt="IVR">
 <img src="https://img.shields.io/badge/APIs-0969DA?style=flat-square" alt="APIs">
 <img src="https://img.shields.io/badge/Webhooks-0F766E?style=flat-square" alt="Webhooks">
 <img src="https://img.shields.io/badge/Survey_%26_VoC_Platforms-7C3AED?style=flat-square" alt="Survey and VoC Platforms">
 
 </div>
 
-I view technology as an enabler for better experiences—helping connect customer insight with operations, improve services, support informed decisions, and create more connected and reliable digital platforms.
+## Technology & Product Interests
+
+I am interested in exploring and developing technologies that support better customer experiences and more effective service operations, including:
+
+* Digital product and platform development
+* Customer and beneficiary experience platforms
+* Voice of the Customer and feedback-management systems
+* Customer engagement and contact-center technologies
+* Workflow and process automation
+* APIs, webhooks, and systems integration
+* Platform architecture and scalability
+* Monitoring, observability, and performance
+* Identity, access, and secure digital experiences
+* Production operations and service reliability
+* Closed-loop feedback and action-management solutions
+
+## Professional Approach
+
+<div align="center">
+
+### Listen → Understand → Analyze → Improve → Measure → Build Loyalty
+
+</div>
+
+I believe improving Customer Experience requires more than collecting feedback. It requires understanding what customers are experiencing, identifying the root causes behind their challenges, connecting insights with the right teams, and ensuring that improvements are implemented and measured.
+
+Technology plays an important role in this process by connecting systems, simplifying operations, accelerating decisions, and enabling organizations to deliver more consistent and reliable experiences.
+
+## My Perspective
+
+> **Listening creates insight. Action creates value. Consistency builds loyalty.**
+
+My goal is to help create experiences where customer needs, operational processes, and technology work together—turning feedback into action and better experiences into long-term relationships.
+
+---
+
+<div align="center">
+
+### Better Experiences • Higher Satisfaction • Stronger Loyalty
+
+</div>
