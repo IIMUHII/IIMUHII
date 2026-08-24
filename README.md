@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I’m a **Customer Experience professional with more than 13 years of experience** improving customer journeys, increasing customer satisfaction, and strengthening long-term loyalty and engagement with digital platforms.
+I’m a **Customer Experience professional ** improving customer journeys, increasing customer satisfaction, and strengthening long-term loyalty and engagement with digital platforms.
 
 My experience is centered on understanding customer needs, identifying experience gaps, and translating customer feedback into practical improvements that create measurable value for both customers and organizations.
 
