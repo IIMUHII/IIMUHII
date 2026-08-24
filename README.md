@@ -20,43 +20,57 @@ Here are some ideas to get you started:
 
 ### Customer Experience × Technology
 
-**Turning customer needs into better digital experiences.**
+<!-- **13+ Years of Experience in Customer Experience** -->
+
+<br>
+
+<img src="https://img.shields.io/badge/Customer%20Experience-0969DA?style=flat-square" alt="Customer Experience">
+<img src="https://img.shields.io/badge/Customer%20Satisfaction-0969DA?style=flat-square" alt="Customer Satisfaction">
+<img src="https://img.shields.io/badge/Customer%20Loyalty-0969DA?style=flat-square" alt="Customer Loyalty">
+<img src="https://img.shields.io/badge/Digital%20Platforms-0969DA?style=flat-square" alt="Digital Platforms">
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Customer%20Experience-0A66C2?style=for-the-badge" alt="Customer Experience">
-  <img src="https://img.shields.io/badge/Digital%20Platforms-0A66C2?style=for-the-badge" alt="Digital Platforms">
-  <img src="https://img.shields.io/badge/Product%20Development-0A66C2?style=for-the-badge" alt="Product Development">
-</p>
 
 ---
 
 ## About Me
 
-I’m a **Customer Experience (CX) professional** with a strong interest in digital product development and building technology platforms.
+I’m a **Customer Experience professional with more than 13 years of experience** improving customer journeys, increasing customer satisfaction, and strengthening long-term loyalty and engagement with digital platforms.
 
-I’m interested in how customer needs and feedback can be translated into better processes, connected systems, and practical digital experiences that create measurable business value.
+My experience is centered on understanding customer needs, identifying experience gaps, and translating customer feedback into practical improvements that create measurable value for both customers and organizations.
 
-## Areas of Focus
+Alongside my CX experience, I have a strong interest in **digital product development and building technology platforms** that connect customer insights with operations and enable faster, more effective action.
 
-* Customer Experience Strategy
-* Voice of the Customer
-* Digital Products and Platforms
-* Digital Transformation
-* Process Automation
-* Systems Integration
-* Production Operations
-* Continuous Improvement
+## Core Expertise
 
-## Technology Interests
+| Customer Experience          | Business Outcomes     | Technology Enablement |
+| ---------------------------- | --------------------- | --------------------- |
+| CX Strategy                  | Customer Satisfaction | Digital Platforms     |
+| Customer Journey Improvement | Customer Loyalty      | Product Development   |
+| Voice of the Customer        | Customer Retention    | Process Automation    |
+| Experience Measurement       | Service Improvement   | Systems Integration   |
 
-I’m continuously exploring how **APIs, automation, system integrations, platform architecture, and scalable technologies** can improve customer experiences and turn insights into action.
+## What I Focus On
+
+* Designing and improving customer journeys
+* Identifying customer pain points and experience gaps
+* Increasing customer satisfaction and platform loyalty
+* Turning customer feedback into measurable actions
+* Improving services through continuous analysis
+* Supporting CX through digital products and technology platforms
+* Connecting customer insights with business operations
+
+## My Perspective
+
+> Great customer experience is not only about listening to customers—it is about understanding their needs, acting on their feedback, and giving them a reason to stay.
+
+I believe technology should make it easier to understand customers, simplify operations, close the feedback loop, and consistently deliver better experiences.
 
 ---
 
 <div align="center">
 
-**Customer Experience powered by Technology**
+### Understand Better • Improve Continuously • Build Loyalty
 
 </div>
+
